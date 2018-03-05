@@ -1,1 +1,3 @@
-# ninty-spy-skins \nCredit to Jaburns
+# ninty-spy-skins  
+Credit to Jaburns
+Too lazy, see: https://github.com/jaburns/NintendoSpy
